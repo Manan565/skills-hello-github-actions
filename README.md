@@ -18,7 +18,7 @@ The shell script in the workflow will run whenever a new pull request is opened.
 
 ### :keyboard: Activity: Trigger the workflow
 
-1. Make a new branch named `test-workflow`.
+1. Make a new branch named `test-workflow`. :smile:_
 1. Make a change, such as adding an emoji to your README.md file, and commit the change directly to your new branch.
 1. In the **Pull requests** tab, create a pull request that will merge `test-workflow` into `main`.
 1. Watch the workflow running in the checks section of the pull request.
